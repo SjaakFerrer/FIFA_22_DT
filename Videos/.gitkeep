@@ -12,8 +12,8 @@
 <body>
 <div class="wrapper">
             <header>
-                <h2>Heres some photos of the superstars of the Milwaukee Bucks!</h2>
-                <P>Sjaak Ferrer van der Aa</P>
+                <h2>Fifa 22 Gameplay!</h2>
+            
             </header>
 
         <nav class="main-nav">
@@ -24,19 +24,15 @@
                 <li><a href="Shop.html">Shop</a></li>
             </ul>
         </nav>
-          <div class="main-one">
-            <img src="Game.jpg" alt="1" width="510" height="390">
-            <img src="carrer.png" alt="2" width="510" height="390">
-            <img src="volta.jpg" alt="3" width="510" height="390">
-            <img src="pro.png" alt="12" width="510" height="390">
-            
+
+        <div>
+        <video width="400px" height="340" controls>
+            <source src="FiFA.mp4"type="video/mp4">
+          In game mechanics
+          </video>
         </div>
-    </div> 
-</div>
-<footer>            
-<p>Sjaak Ferrer Van Der Aa &copy; 2022</p>       
-</footer>          
-</body>
-</html>
+
+        <div class="footer">
+            <p>Sjaak Ferrer Van Der Aa &copy; 2022</p>
+                </div>   
         
-            
