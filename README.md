@@ -14,9 +14,6 @@ Fifa is made by Ea (electronic Arts) sports and is best known for there game Mad
 
 ### My design process
 
-- Layout
 - Colour
-- Font(s)
-- Navigation (Site map)
-
-I got the main colours, Purple, teal, blue 
+  - I got my imagine from FIFA 22 website front page and used the colours from that image.
+  - The website i got the colours for this is [**colourexplorer.com**](http://www.colorexplorer.com/imageimport.aspx)
