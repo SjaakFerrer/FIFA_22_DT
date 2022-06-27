@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+   <!--configuration for the browser-->
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home</title>
+        <link rel="stylesheet" href="IndexM.css">   
+    </head>
+    <!--Content goes here-->
+<body>
+<div class="wrapper">
+            <header>
+                <h2>Anei etahi whakaahua whakaari o FIFA 22!</h2>
+                <P>Sjaak Ferrer van der Aa</P>
+            </header>
+
+        <nav class="main-nav">
+            <ul>
+                <li><a href="IndexM.html">Home</a></li>
+                <li><a href="imagesM.html">Gallery</a></li>
+                <li><a href="VideosM.html">Trailer</a></li>
+                <li><a href="StoreM.html">Shop</a></li>
+            </ul>
+        </nav>
+          <div class="main-one">
+            <img src="Game.jpg" alt="1" width="510" height="390">
+            <img src="carrer.png" alt="2" width="510" height="390">
+            <img src="volta.jpg" alt="3" width="510" height="390">
+            <img src="pro.png" alt="12" width="510" height="390">
+            
+        </div>
+    </div> 
+</div>
+<footer>            
+<p>Sjaak Ferrer Van Der Aa &copy; 2022</p>       
+</footer>          
+</body>
+</html>
+        
+            
