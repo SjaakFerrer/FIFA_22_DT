@@ -23,3 +23,11 @@ Fifa is made by Ea (electronic Arts) sports and is best known for there game Mad
 
 - Media
   - All my media was found at [**EAsportsFifa**](https://www.youtube.com/c/easportsfifa)
+
+- Visual Code
+  - i used alot of divs and used HTML aswell as Css as my desgining sheet.
+
+### Things i can do differently next time
+- Use grid instead of Css to have a nicer layout
+- Have a better work folder to find things easier 
+- if i use Css next time, put more work into making the Css File more advanced
