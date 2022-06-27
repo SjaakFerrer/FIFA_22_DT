@@ -18,4 +18,8 @@ Fifa is made by Ea (electronic Arts) sports and is best known for there game Mad
   - I got my imagine from FIFA 22 website front page and used the colours from that image.
   - The website i got the colours for this is [**colourexplorer.com**](http://www.colorexplorer.com/imageimport.aspx)
 
+- Layout
+  - my layout was based on the game itself, in the actual game there are four pages - Gamemode, Online, Store and settings. From there i decided to have four pages - Home, Images, a trailer and store. 
 
+- Media
+  - All my media was found at [**EAsportsFifa**](https://www.youtube.com/c/easportsfifa)
